@@ -402,6 +402,6 @@ footer * {
   outline: none;
 }
 .columnabout img{
-  max-width: 20%;
+  max-width: 40vw;
   height: auto;
 }
