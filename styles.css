@@ -58,6 +58,7 @@ body{
     background-color: black;
     border-radius: 10px;
 }
+/*
 @media (max-width:400px){
     .toggle-button{
         display: flex;
@@ -84,7 +85,7 @@ body{
         display: flex;
     }
 }
-
+*/
 /* Homepage Columns */
 
 .container{
